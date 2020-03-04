@@ -1,1 +1,3 @@
 # learn-korean
+## pronounciation
+## grammar
